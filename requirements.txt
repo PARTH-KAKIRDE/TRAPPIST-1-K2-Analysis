@@ -1,0 +1,13 @@
+Astroquery
+celerite2
+transitleastsquares
+pycuda
+cetra
+lightkurve
+matplotlib
+numpy
+pandas 
+scipy
+lightkurve
+cetra
+pycuda
