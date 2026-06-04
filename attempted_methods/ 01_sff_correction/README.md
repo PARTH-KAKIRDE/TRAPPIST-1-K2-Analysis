@@ -1,6 +1,6 @@
 # Self-Flat-Fielding (SFF) Correction
 
-**Status:** Abandoned
+**Status:** Abandoned  
 **Reference:** Vanderburg, A. & Johnson, J. A. (2014), *Publications of the Astronomical Society of the Pacific*, 126, 948.
 
 ## Method Overview
