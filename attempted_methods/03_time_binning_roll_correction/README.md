@@ -34,17 +34,13 @@ The failure of this approach is explained by the distinction between **white noi
 
 For uncorrelated noise, averaging multiple measurements reduces the noise according to:
 
-[
-\sigma_{\mathrm{binned}} = \frac{\sigma}{\sqrt{N}}
-]
+σ_binned = σ / √N
 
 where (N) is the number of samples within a bin.
 
 For a 10-minute bin containing approximately ten 60-second cadences, purely white noise would be expected to decrease by roughly:
 
-[
-\sqrt{10} \approx 3.16
-]
+sqrt(10) ≈ 3.16×
 
 This principle is widely used in photometric data analysis.
 
